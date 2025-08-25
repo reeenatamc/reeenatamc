@@ -1,6 +1,6 @@
 ## hi :)
 
-![7af458bc35898f4ffddc076491ea9a37](https://github.com/user-attachments/assets/e998cad8-9925-4a78-ab0a-7e31f4e10ef4)
+![92576d238f5fd179e7264d9ae6fc5568-ezgif com-loop-count](https://github.com/user-attachments/assets/7e5f587c-fba4-48d4-9d56-032c097c435e)
 
 
-just a human making commits and questioning all my life choices.
+un bug a la vez 

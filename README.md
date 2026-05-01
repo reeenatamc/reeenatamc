@@ -1,4 +1,16 @@
 <p>
-  <strong style="font-size: 24px;">codeKILLER</strong><br>
+  <strong style="font-size: 28px;">codeKILLER</strong><br>
+  <span style="font-size: 14px;">
+    Fullstack engineer building end-to-end systems.
+  </span>
 </p>
-<img src="https://github.com/user-attachments/assets/7e5f587c-fba4-48d4-9d56-032c097c435e" width="100" height="100" alt="gif" />
+
+
+<p style="margin-top: 10px; max-width: 500px;">
+  From database design to UI — I build complete products that actually run in production.  
+  Focused on performance, scalability, and real-world use cases.
+</p>
+
+<p style="font-size: 13px; opacity: 0.8;">
+  Frontend · Backend · APIs · Databases · System Design
+</p>

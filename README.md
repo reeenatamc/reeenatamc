@@ -1,11 +1,9 @@
 <p>
-  <strong style="font-size: 30px;">codeKILLER</strong><br>
   <span style="font-size: 14px;">
     Fullstack engineer building real systems, end-to-end.
   </span>
 </p>
 
-<img src="https://github.com/user-attachments/assets/7e5f587c-fba4-48d4-9d56-032c097c435e" width="110" height="110" alt="gif" />
 
 <p style="margin-top: 12px; max-width: 520px;">
   I design, build, and ship complete products — from database architecture to frontend experience.  

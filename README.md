@@ -32,12 +32,6 @@ Offline training tracker built out of my own eight-sheet spreadsheet. The
 progression rules are pure functions, and it will not suggest more weight when
 pain is logged.
 
-## Day job
-
-Backend developer at SOLNUSTEC, working on Odoo and Django: PostgreSQL
-concurrency and race-condition work, reporting systems. Around 90 merged pull
-requests so far. Those repositories are private.
-
 ## Tech
 
 Python · Django · FastAPI · PostgreSQL · Redis · Celery · Docker · Odoo
